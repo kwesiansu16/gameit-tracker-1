@@ -41,9 +41,10 @@
                     <label for="description">Category</label>
                     <select class="form-control">
                         <option value=""></option>
-                        <option value="arcade">Arcade</option>
-                        <option value="kids-arcade">Kids arcade</option>
-                        <option value="redemption-arcade">Redemption Arcade</option>
+                        <option value="ps_price">PS5 Console</option>
+                        <option value="vr_price">Virtual Reality</option>
+                        <option value="rs_price">Racing sim</option>
+                        <option value="shooter_price">Alien shooter</option>
                     </select>
                   </div>
 
